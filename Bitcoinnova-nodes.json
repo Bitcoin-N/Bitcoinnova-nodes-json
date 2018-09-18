@@ -1,0 +1,64 @@
+{
+    "nodes" : [
+        {
+            "name": "pool.bitcoinnova.org",
+            "url": "pool.bitcoinnova.org",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "bitcoinn.criptominando.eu",
+            "url": "bitcoinn.criptominando.eu",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "bitcoinnova.multipool.es",
+            "url": "bitcoinnova.multipool.es",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "dreampool.info",
+            "url": "dreampool.info",
+            "port": 45223,
+            "ssl": false
+        },
+         {
+            "name": "superblockchain.con-ip.com",
+            "url": "superblockchain.con-ip.com",
+            "port": 45223,
+            "ssl": false
+        },
+         {
+            "name": "gonspool.com",
+            "url": "gonspool.com",
+            "port": 45223,
+            "ssl": false
+        },
+         {
+            "name": "cryptonote.bobpool.cc",
+            "url": "cryptonote.bobpool.cc",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "btn.ebrepools.com",
+            "url": "btn.ebrepools.com",
+            "port": 45223,
+            "ssl": false
+        },
+         {
+            "name": "youpool.io",
+            "url": "118.31.66.128",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "Seend-2",
+            "url": "37.59.108.203",
+            "port": 45223,
+            "ssl": false
+        }
+    ]
+}
